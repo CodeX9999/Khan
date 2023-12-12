@@ -1,0 +1,410 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-1"高清"#EXTINF:-1  tvg-id="1"
+http://192.168.101.254:4560/rtp/239.93.0.184:5140
+#EXTINF:-1 tvg-name="CCTV-2"高清"#EXTINF:-1  tvg-id="2"
+http://192.168.101.254:4560/rtp/239.93.1.23:6000
+#EXTINF:-1 tvg-name="CCTV-3"高清"#EXTINF:-1  tvg-id="3"
+http://192.168.101.254:4560/rtp/239.93.1.11:2223
+#EXTINF:-1 tvg-name="CCTV-4"高清"#EXTINF:-1  tvg-id="4"
+http://192.168.101.254:4560/rtp/239.93.1.105:5140
+#EXTINF:-1 tvg-name="CCTV-5"高清"#EXTINF:-1  tvg-id="5"
+http://192.168.101.254:4560/rtp/239.93.42.37:5140
+#EXTINF:-1 tvg-name="CCTV-6"高清"#EXTINF:-1  tvg-id="6"
+http://192.168.101.254:4560/rtp/239.93.1.13:2226
+#EXTINF:-1 tvg-name="CCTV-7"高清"#EXTINF:-1  tvg-id="7"
+http://192.168.101.254:4560/rtp/239.93.1.67:5140
+#EXTINF:-1 tvg-name="CCTV-8"高清"#EXTINF:-1  tvg-id="8"
+http://192.168.101.254:4560/rtp/239.93.42.39:5140
+#EXTINF:-1 tvg-name="CCTV-9"高清"#EXTINF:-1  tvg-id="9"
+http://192.168.101.254:4560/rtp/239.93.1.24:5140
+#EXTINF:-1 tvg-name="CCTV-10"高清"#EXTINF:-1  tvg-id="10"
+http://192.168.101.254:4560/rtp/239.93.1.28:5140
+#EXTINF:-1 tvg-name="CCTV-11"高清"#EXTINF:-1  tvg-id="11"
+http://192.168.101.254:4560/rtp/239.93.0.102:5140
+#EXTINF:-1 tvg-name="CCTV-12"高清"#EXTINF:-1  tvg-id="12"
+http://192.168.101.254:4560/rtp/239.93.1.30:8124
+#EXTINF:-1 tvg-name="CCTV-13"高清"#EXTINF:-1  tvg-id="13"
+http://192.168.101.254:4560/rtp/239.93.0.66:5140
+#EXTINF:-1 tvg-name="CCTV-少儿"高清"#EXTINF:-1  tvg-id="14"
+http://192.168.101.254:4560/rtp/239.93.1.29:6000
+#EXTINF:-1 tvg-name="CCTV-15"高清"#EXTINF:-1  tvg-id="15"
+http://192.168.101.254:4560/rtp/239.93.0.103:5140
+#EXTINF:-1 tvg-name="CCTV-17"高清"#EXTINF:-1  tvg-id="16"
+http://192.168.101.254:4560/rtp/239.93.0.92:5140
+#EXTINF:-1 tvg-name="CCTV-5＋"高清"#EXTINF:-1  tvg-id="17"
+http://192.168.101.254:4560/rtp/239.93.1.36:8004
+#EXTINF:-1 tvg-name="四川卫视"高清"#EXTINF:-1  tvg-id="18"
+http://192.168.101.254:4560/rtp/239.93.0.20:1235
+#EXTINF:-1 tvg-name="CDTV-1"高清"#EXTINF:-1  tvg-id="19"
+http://192.168.101.254:4560/rtp/239.93.0.16:5140
+#EXTINF:-1 tvg-name="湖南卫视"高清"#EXTINF:-1  tvg-id="20"
+http://192.168.101.254:4560/rtp/239.93.0.88:5140
+#EXTINF:-1 tvg-name="江苏卫视"高清"#EXTINF:-1  tvg-id="21"
+http://192.168.101.254:4560/rtp/239.93.0.89:5140
+#EXTINF:-1 tvg-name="浙江卫视"高清"#EXTINF:-1  tvg-id="22"
+http://192.168.101.254:4560/rtp/239.93.0.124:5140
+#EXTINF:-1 tvg-name="东方卫视"高清"#EXTINF:-1  tvg-id="23"
+http://192.168.101.254:4560/rtp/239.93.0.123:5140
+#EXTINF:-1 tvg-name="北京卫视"高清"#EXTINF:-1  tvg-id="24"
+http://192.168.101.254:4560/rtp/239.93.0.180:5140
+#EXTINF:-1 tvg-name="深圳卫视"高清"#EXTINF:-1  tvg-id="25"
+http://192.168.101.254:4560/rtp/239.93.0.182:5140
+#EXTINF:-1 tvg-name="广东卫视"高清"#EXTINF:-1  tvg-id="26"
+http://192.168.101.254:4560/rtp/239.93.0.181:5140
+#EXTINF:-1 tvg-name="天津卫视"高清"#EXTINF:-1  tvg-id="27"
+http://192.168.101.254:4560/rtp/239.93.0.167:5140
+#EXTINF:-1 tvg-name="山东卫视"高清"#EXTINF:-1  tvg-id="28"
+http://192.168.101.254:4560/rtp/239.93.0.168:5140
+#EXTINF:-1 tvg-name="SCTV-2"高清"#EXTINF:-1  tvg-id="29"
+http://192.168.101.254:4560/rtp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="SCTV-3"高清"#EXTINF:-1  tvg-id="30"
+http://192.168.101.254:4560/rtp/239.93.1.102:5140
+#EXTINF:-1 tvg-name="SCTV-4"高清"#EXTINF:-1  tvg-id="31"
+http://192.168.101.254:4560/rtp/239.93.0.47:5140
+#EXTINF:-1 tvg-name="SCTV-5"高清"#EXTINF:-1  tvg-id="32"
+http://192.168.101.254:4560/rtp/239.93.0.166:5140
+#EXTINF:-1 tvg-name="SCTV-6"高清"#EXTINF:-1  tvg-id="33"
+http://192.168.101.254:4560/rtp/239.93.1.144:5140
+#EXTINF:-1 tvg-name="SCTV-7"高清"#EXTINF:-1  tvg-id="34"
+http://192.168.101.254:4560/rtp/239.93.0.219:5140
+#EXTINF:-1 tvg-name="SCTV-科教"高清"#EXTINF:-1  tvg-id="35"
+http://192.168.101.254:4560/rtp/239.93.42.44:5140
+#EXTINF:-1 tvg-name="四川乡村"高清"#EXTINF:-1  tvg-id="36"
+http://192.168.101.254:4560/rtp/239.93.0.52:5140
+#EXTINF:-1 tvg-name="康巴卫视"高清"#EXTINF:-1  tvg-id="37"
+http://192.168.101.254:4560/rtp/239.93.0.41:5140
+#EXTINF:-1 tvg-name="江西卫视"高清"#EXTINF:-1  tvg-id="38"
+http://192.168.101.254:4560/rtp/239.93.0.134:5140
+#EXTINF:-1 tvg-name="东南卫视"高清"#EXTINF:-1  tvg-id="39"
+http://192.168.101.254:4560/rtp/239.93.0.42:5140
+#EXTINF:-1 tvg-name="黑龙江卫视"高清"#EXTINF:-1  tvg-id="40"
+http://192.168.101.254:4560/rtp/239.93.0.183:5140
+#EXTINF:-1 tvg-name="重庆卫视"高清"#EXTINF:-1  tvg-id="41"
+http://192.168.101.254:4560/rtp/239.93.1.107:5140
+#EXTINF:-1 tvg-name="贵州卫视"高清"#EXTINF:-1  tvg-id="42"
+http://192.168.101.254:4560/rtp/239.93.0.131:5140
+#EXTINF:-1 tvg-name="湖北卫视"高清"#EXTINF:-1  tvg-id="43"
+http://192.168.101.254:4560/rtp/239.93.0.250:5140
+#EXTINF:-1 tvg-name="安徽卫视"高清"#EXTINF:-1  tvg-id="44"
+http://192.168.101.254:4560/rtp/239.93.1.106:5140
+#EXTINF:-1 tvg-name="河北卫视"高清"#EXTINF:-1  tvg-id="45"
+http://192.168.101.254:4560/rtp/239.93.0.132:5140
+#EXTINF:-1 tvg-name="辽宁卫视"高清"#EXTINF:-1  tvg-id="46"
+http://192.168.101.254:4560/rtp/239.93.1.108:5140
+#EXTINF:-1 tvg-name="河南卫视"高清"#EXTINF:-1  tvg-id="47"
+http://192.168.101.254:4560/rtp/239.93.42.45:5140
+#EXTINF:-1 tvg-name="广西卫视"高清"#EXTINF:-1  tvg-id="48"
+http://192.168.101.254:4560/rtp/239.93.42.46:5140
+#EXTINF:-1 tvg-name="云南卫视"高清"#EXTINF:-1  tvg-id="49"
+http://192.168.101.254:4560/rtp/239.93.1.174:5140
+#EXTINF:-1 tvg-name="吉林卫视"高清"#EXTINF:-1  tvg-id="50"
+http://192.168.101.254:4560/rtp/239.93.0.248:5140
+#EXTINF:-1 tvg-name="甘肃卫视"高清"#EXTINF:-1  tvg-id="51"
+http://192.168.101.254:4560/rtp/239.93.0.81:5140
+#EXTINF:-1 tvg-name="峨眉电影"高清"#EXTINF:-1  tvg-id="52"
+http://192.168.101.254:4560/rtp/239.93.0.252:5140
+#EXTINF:-1 tvg-name="CDTV-2"高清"#EXTINF:-1  tvg-id="53"
+http://192.168.101.254:4560/rtp/239.93.0.17:1239
+#EXTINF:-1 tvg-name="CDTV-3"高清"#EXTINF:-1  tvg-id="54"
+http://192.168.101.254:4560/rtp/239.93.0.18:1238
+#EXTINF:-1 tvg-name="CDTV-4"高清"#EXTINF:-1  tvg-id="55"
+http://192.168.101.254:4560/rtp/239.93.0.19:1250
+#EXTINF:-1 tvg-name="CDTV-5"高清"#EXTINF:-1  tvg-id="56"
+http://192.168.101.254:4560/rtp/239.93.1.231:5140
+#EXTINF:-1 tvg-name="CDTV-6"高清"#EXTINF:-1  tvg-id="57"
+http://192.168.101.254:4560/rtp/239.93.0.21:1251
+#EXTINF:-1 tvg-name="CDTV-8"高清"#EXTINF:-1  tvg-id="58"
+http://192.168.101.254:4560/rtp/239.93.0.22:1252
+#EXTINF:-1 tvg-name="大爱四川高清专区"#EXTINF:-1  tvg-id="59"
+http://192.168.101.254:4560/rtp/239.93.1.110:5140
+#EXTINF:-1 tvg-name="大爱旅游高清专区"#EXTINF:-1  tvg-id="60"
+http://192.168.101.254:4560/rtp/239.93.42.70:5140
+#EXTINF:-1 tvg-name="大爱生活高清专区"#EXTINF:-1  tvg-id="61"
+http://192.168.101.254:4560/rtp/239.93.42.71:5140
+#EXTINF:-1 tvg-name="大爱时尚高清专区"#EXTINF:-1  tvg-id="62"
+http://192.168.101.254:4560/rtp/239.93.42.72:5140
+#EXTINF:-1 tvg-name="经典电影专区"#EXTINF:-1  tvg-id="63"
+http://192.168.101.254:4560/rtp/239.93.0.57:9024
+#EXTINF:-1 tvg-name="华语影院专区"#EXTINF:-1  tvg-id="64"
+http://192.168.101.254:4560/rtp/239.93.0.138:5140
+#EXTINF:-1 tvg-name="星光院线专区"#EXTINF:-1  tvg-id="65"
+http://192.168.101.254:4560/rtp/239.93.0.139:5140
+#EXTINF:-1 tvg-name="全球大片专区"#EXTINF:-1  tvg-id="66"
+http://192.168.101.254:4560/rtp/239.93.0.105:5140
+#EXTINF:-1 tvg-name="热播剧场专区"#EXTINF:-1  tvg-id="67"
+http://192.168.101.254:4560/rtp/239.93.0.56:9020
+#EXTINF:-1 tvg-name="热门剧场专区"#EXTINF:-1  tvg-id="68"
+http://192.168.101.254:4560/rtp/239.93.0.140:5140
+#EXTINF:-1 tvg-name="港剧风云专区"#EXTINF:-1  tvg-id="69"
+http://192.168.101.254:4560/rtp/239.93.0.143:5140
+#EXTINF:-1 tvg-name="谍战剧场专区"#EXTINF:-1  tvg-id="70"
+http://192.168.101.254:4560/rtp/239.93.0.95:5140
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
